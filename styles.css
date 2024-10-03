@@ -1,0 +1,29 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #1b1612;
+  text-align: center;
+  color: #b87633;
+  border-width: 30px;
+  border-style: solid;
+  border-color: #898275;
+  border-radius: 40px;
+  background: linear-gradient(#1b1612, #b87633);
+}
+
+skibidi {
+  text-align: center;
+  border-width: 10px;
+  border-style: ridge;
+  border-color: #898275;
+  border-top: 0cap;
+  border-right: 0cap;
+  border-left: 0cap;
+}
+
+li {
+  border-width: 10px;
+  border-style: ridge;
+  border-color: #898275;
+}
+
+
